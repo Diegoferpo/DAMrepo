@@ -1,0 +1,49 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Entornos de desarrollo
+.env
+.env.*.local
+
+# Logs
+logs
+*.log
+*.tflite
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Sistema operativo (macOS y Windows)
+.DS_Store
+*.DS_Store
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Git
+*.orig
+
+# Otros
+*.lock
+*.bak
+*.tmp
+*.swp
